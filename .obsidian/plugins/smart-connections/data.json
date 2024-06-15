@@ -1,0 +1,69 @@
+{
+  "new_user": false,
+  "chat_folder": "smart chat",
+  "smart_notes_embed_model": "TaylorAI/bge-micro-v2",
+  "smart_blocks_embed_model": "None",
+  "smart_connections_folder": ".smart-connections",
+  "smart_connections_folder_last": ".smart-connections",
+  "system_prompts_folder": "smart prompts",
+  "smart_chat_folder": "smart-chats",
+  "smart_chat_folder_last": "smart-chats",
+  "local_embedding_max_tokens": 2048,
+  "embedding_file_per_note": false,
+  "chat_model_platform_key": "open_router",
+  "open_router": {
+    "api_key": "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",
+    "model_name": "mistralai/mistral-7b-instruct",
+    "description": "Mistral: Mistral 7B Instruct",
+    "type": "API",
+    "endpoint": "https://openrouter.ai/api/v1/chat/completions",
+    "streaming": true,
+    "fetch_models": true,
+    "default_model": "mistralai/mistral-7b-instruct:free",
+    "signup_url": "https://accounts.openrouter.ai/sign-up?redirect_url=https%3A%2F%2Fopenrouter.ai%2Fkeys",
+    "key": "mistralai/mistral-7b-instruct",
+    "max_input_tokens": 32768,
+    "actions": false,
+    "multimodal": false,
+    "raw": {
+      "id": "mistralai/mistral-7b-instruct",
+      "name": "Mistral: Mistral 7B Instruct",
+      "description": "A high-performing, industry-standard 7.3B parameter model, with optimizations for speed and context length.",
+      "pricing": {
+        "prompt": "0.00000007",
+        "completion": "0.00000007",
+        "image": "0",
+        "request": "0"
+      },
+      "context_length": 32768,
+      "architecture": {
+        "modality": "text",
+        "tokenizer": "Mistral",
+        "instruct_type": "mistral"
+      },
+      "top_provider": {
+        "max_completion_tokens": null,
+        "is_moderated": false
+      },
+      "per_request_limits": null
+    }
+  },
+  "embed_input_min_chars": 50,
+  "multi_heading_blocks": true,
+  "enable_mobile": false,
+  "actions": {
+    "lookup": true
+  },
+  "api_key": "",
+  "excluded_headings": "",
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
+  "show_full_path": false,
+  "expanded_view": true,
+  "language": "en",
+  "log_render": false,
+  "log_render_files": false,
+  "recently_sent_retry_notice": false,
+  "version": "2.1.71",
+  "free_chat_uses": 1
+}

@@ -1,0 +1,19 @@
+{
+  "auto_generate_title": true,
+  "fleeting_notes_folder": "FleetingNotesApp",
+  "attachments_folder": "",
+  "note_template": "---\n# Mandatory fields\nid: \"${id}\"\n# Optional fields\ntitle: \"${title}\"\ntags: ${tags}\nsource: \"${source}\"\nsource_title: \"${source_title}\"\nsource_description: \"${source_description}\"\nsource_image_url: \"${source_image_url}\"\ncreated_date: \"${created_date}\"\nmodified_date: \"${last_modified_date}\"\n---\n${content}",
+  "sync_on_startup": true,
+  "last_sync_time": "2024-06-04T04:24:09.674Z",
+  "sync_type": "realtime-two-way",
+  "sync_obsidian_links": false,
+  "sync_obsidian_links_title": "Links from Obsidian",
+  "notes_filter": "",
+  "email": "jifathossaintonmoy@gmail.com",
+  "password": "Hack-me@6251",
+  "supabaseId": "02be32fa-cabb-4d26-8495-fc6b9405afd4",
+  "encryption_key": "",
+  "sync_interval": 31778,
+  "date_format": "YYYY-MM-DD",
+  "title_template": "${title}"
+}

@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "455fb9072fdc6115",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a88f37ed8b44852",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cd17fd4c1dff498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/SQL payload.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69ee97d9632aa789",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd25c4d0f8d19705",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc2dc6c458ceacde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cbc98087f0a1c60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b02cbae31184c88e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "aa7fcc7e866fd354",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a15d71becd04e0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9b9a2f65ef6f75c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/SQL payload.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f3d4b7b90b6a9ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/SQL payload.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f90517b6ba2e4c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b24f84ad39576244",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/SQL payload.md"
+              }
+            }
+          },
+          {
+            "id": "3350586af0647d49",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "70a89a92c888df63",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Timeline": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "link-tree:Link Tree": false
+    }
+  },
+  "active": "1cd17fd4c1dff498",
+  "lastOpenFiles": [
+    "notes/BASH tutorial.md",
+    "notes/SQL payload.md",
+    "FleetingNotesApp/regex notes for bash.md",
+    "references/Tweets/dork to find blackhat resources.md",
+    "references/Resources.md",
+    "FleetingNotesApp/js for bbh.md",
+    "FleetingNotesApp/need to see this .md"
+  ]
+}
