@@ -11,5 +11,6 @@
   "fleeting-notes-obsidian",
   "link-tree",
   "obsidian-search-everywhere-plugin",
-  "github-sync"
+  "github-sync",
+  "slash-commander"
 ]
