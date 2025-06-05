@@ -16,7 +16,8 @@
       "action": "editor:insert-table",
       "icon": "table-2",
       "mode": "any",
-      "triggerMode": "anywhere"
+      "triggerMode": "anywhere",
+      "children": []
     },
     {
       "name": "Callout",
@@ -24,7 +25,8 @@
       "action": "editor:insert-callout",
       "icon": "indent",
       "mode": "any",
-      "triggerMode": "anywhere"
+      "triggerMode": "anywhere",
+      "children": []
     },
     {
       "name": "Code",
@@ -32,7 +34,8 @@
       "action": "editor:insert-codeblock",
       "icon": "terminal",
       "mode": "any",
-      "triggerMode": "anywhere"
+      "triggerMode": "anywhere",
+      "children": []
     },
     {
       "name": "Math",
@@ -40,7 +43,8 @@
       "action": "editor:insert-mathblock",
       "icon": "percent",
       "mode": "any",
-      "triggerMode": "anywhere"
+      "triggerMode": "anywhere",
+      "children": []
     },
     {
       "name": "Embed",
@@ -48,7 +52,8 @@
       "action": "editor:insert-embed",
       "icon": "sticky-note",
       "mode": "any",
-      "triggerMode": "anywhere"
+      "triggerMode": "anywhere",
+      "children": []
     },
     {
       "name": "Attachment",
@@ -56,7 +61,8 @@
       "action": "editor:attach-file",
       "icon": "paperclip",
       "mode": "any",
-      "triggerMode": "anywhere"
+      "triggerMode": "anywhere",
+      "children": []
     },
     {
       "name": "Property",
@@ -64,7 +70,8 @@
       "action": "markdown:add-metadata-property",
       "icon": "plus-circle",
       "mode": "any",
-      "triggerMode": "anywhere"
+      "triggerMode": "anywhere",
+      "children": []
     },
     {
       "name": "Admonition",
@@ -72,7 +79,8 @@
       "action": "obsidian-admonition:insert-admonition",
       "icon": "indent",
       "mode": "any",
-      "triggerMode": "anywhere"
+      "triggerMode": "anywhere",
+      "children": []
     },
     {
       "name": "Excalidraw",
@@ -80,7 +88,8 @@
       "action": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
       "icon": "image",
       "mode": "any",
-      "triggerMode": "anywhere"
+      "triggerMode": "anywhere",
+      "children": []
     },
     {
       "name": "Task",
@@ -88,7 +97,8 @@
       "action": "obsidian-tasks-plugin:edit-task",
       "icon": "check-circle",
       "mode": "any",
-      "triggerMode": "anywhere"
+      "triggerMode": "anywhere",
+      "children": []
     },
     {
       "name": "Template",
@@ -96,7 +106,8 @@
       "action": "templater-obsidian:insert-templater",
       "icon": "book-copy",
       "mode": "any",
-      "triggerMode": "anywhere"
+      "triggerMode": "anywhere",
+      "children": []
     },
     {
       "name": "Citation",
@@ -104,7 +115,8 @@
       "action": "zotlit:insert-markdown-citation",
       "icon": "book-marked",
       "mode": "desktop",
-      "triggerMode": "anywhere"
+      "triggerMode": "anywhere",
+      "children": []
     }
   ]
 }

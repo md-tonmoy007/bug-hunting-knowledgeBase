@@ -1,5 +1,4 @@
 ---
-Title: 
 tags:
 ---
 ### Body

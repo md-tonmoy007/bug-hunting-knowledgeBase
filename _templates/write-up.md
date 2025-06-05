@@ -1,5 +1,4 @@
 ---
-title: 
 source: 
 tags: 
 created_date: ""

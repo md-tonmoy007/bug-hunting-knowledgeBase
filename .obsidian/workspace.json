@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9a05b9329cb53ac1",
+        "id": "d30b6bd196ab9092",
         "type": "tabs",
         "children": [
           {
-            "id": "091eca04bd0f8e9f",
+            "id": "37279c34eb696d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1. IDOR and Access Control.md",
+                "file": "references/Cookies and session.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. IDOR and Access Control"
-            }
-          },
-          {
-            "id": "9c240f0964a69073",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "references/How to take  notes for IDOR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to take  notes for IDOR"
-            }
-          },
-          {
-            "id": "1ae7976f6f5363a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Checklist/E-Commerce Checklist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "E-Commerce Checklist"
+              "title": "Cookies and session"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,26 +152,6 @@
             }
           },
           {
-            "id": "70a89a92c888df63",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
-            }
-          },
-          {
-            "id": "8283a76a7f6b56ab",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
-            }
-          },
-          {
             "id": "e29abd6819e891e0",
             "type": "leaf",
             "state": {
@@ -208,26 +159,6 @@
               "state": {},
               "icon": "list-tree",
               "title": "Link Tree"
-            }
-          },
-          {
-            "id": "c6e160558c3e0d45",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "48fa88c0ceb7f349",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           },
           {
@@ -241,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -258,49 +189,47 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Timeline": false,
       "dbfolder:Create a new database table": false,
       "link-tree:Link Tree": false,
-      "github-sync:Sync with Remote": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "1ae7976f6f5363a4",
+  "active": "37279c34eb696d0f",
   "lastOpenFiles": [
-    "references/APIsec-Auth attack.md",
+    "notes/IDOR and Access control/cookie based IDOR.md",
+    "references/Cookies and session.md",
+    "_templates/note.md",
+    "_templates/reference.md",
+    "_templates/write-up.md",
+    "_templates/tweet.md",
+    "_templates/fleeting.md",
+    "_templates/Daily notes.md",
+    "_templates/Checklist (recon).md",
+    "notes/IDOR and Access control/1. IDOR and Access Control.md",
+    "references/Youtube/Finding criticals on well-tested targets - Victor “doomerhunter” Poucheret.md",
+    "references/How to take  notes for IDOR.md",
+    "references/Youtube/daef.md",
+    "references/IDOR write up reading tips.md",
+    "references/Youtube",
     "notes/Checklist/E-Commerce Checklist.md",
+    "references/APIsec-Auth attack.md",
     "notes/Checklist",
     "notes/API testing/API SEC tutorials.md",
     "notes/BASH/BASH tutorial.md",
     "FleetingNotesApp/Untitled.md",
     "notes/Untitled.md",
-    "_templates/note.md",
-    "_templates/reference.md",
     "FleetingNotesApp/content discovery wordlist.md",
     "Status of fleetingnotes.md",
     "references/godfather orwa interveiw.md",
     "notes/SQLi/SQL injection - introduction.md",
-    "notes/IDOR and Access control/1. IDOR and Access Control.md",
     "notes/API testing/APIsec tutorial.md",
     "notes/API testing",
     "notes/Recon",
     "notes/Xss",
     "notes/SQLi",
     "notes/BASH/BASH tutorial.png",
-    "references/How to take  notes for IDOR.md",
     "notes/BASH",
     "notes/IDOR and Access control",
-    "FleetingNotesApp/this is about bismuth.md",
-    "2025-05-29.md",
-    "references/main app methodology by ratxss.md",
-    "references/js files are your friends.md",
-    "notes/SQLi/SQL payload.md",
-    "notes/Recon/My methodology (Recon).md",
-    "notes/Xss/XSS.md",
-    "payloads/Xss.md",
-    "references/The power of shodan.md",
-    "references/top shodan dorks.md",
-    "Rough/2024-06-07.md"
+    "FleetingNotesApp/this is about bismuth.md"
   ]
 }
