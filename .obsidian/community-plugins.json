@@ -10,5 +10,6 @@
   "link-tree",
   "obsidian-search-everywhere-plugin",
   "github-sync",
-  "slash-commander"
+  "slash-commander",
+  "obsidian-auto-link-title"
 ]

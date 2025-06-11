@@ -1,0 +1,11 @@
+{
+  "obsidian-auto-link-title:auto-link-title-paste": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": ";"
+    }
+  ]
+}

@@ -38,7 +38,7 @@ FOO in a vulnerable application:
 
 
 ### tips-1
-One way of confi rming that the application is interacting with a back-
+One way of confirming that the application is interacting with a back-
 end database is to submit the SQL wildcard character % in a given parameter.
 For example, submitting this in a search field often returns a large number of
 results, indicating that the input is being passed into a SQL query. Of course,
