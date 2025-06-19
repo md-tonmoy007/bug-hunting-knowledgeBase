@@ -27,6 +27,11 @@ sqlmap -u "http://example.com/page.php?id=1" --dbs
 sqlmap -u "http://example.com/login" --data="username=admin&password=pass" --dbs
 ```
 
+**Custom wordlist**
+```sh
+sqlmap -u "http://example.com/vuln.php?id=1" --wordlist=/path/to/wordlist.txt
+```
+
 **Cookie-Based Testing**
 ```
 sqlmap -u "http://example.com/dashboard" --cookie="PHPSESSID=abc123" --dbs

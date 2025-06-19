@@ -273,3 +273,6 @@ top['al'+'ert'](1)
 Reflected XSS remains one of the most prevalent web vulnerabilities due to improper input handling. While filters provide some protection, they can often be bypassed using creative techniques. Effective defense requires a combination of input validation, output encoding, and security-aware development practices. Regular testing with both automated tools and manual techniques is essential to identify and remediate these vulnerabilities before attackers can exploit them.
 
 For further reading, consult the OWASP XSS Filter Evasion Cheat Sheet  and The Web Application Hacker's Handbook .
+
+
+[[more on RXSS | read more]]
